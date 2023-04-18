@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Calculator-iOS
+  annotations:
+    github.com/project-slug: helgif/Calculator-iOS
+spec:
+  type: component
+  lifecycle: experimental
+  owner: team-a
